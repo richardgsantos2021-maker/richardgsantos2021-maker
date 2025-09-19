@@ -47,6 +47,8 @@
   <a href="mailto:richardgsantos2021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <p align="left">
+  <img src="https://img.shields.io/badge/Gmail-richardgsantos2021@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu e-mail para contato"/>
   <a href="https://www.linkedin.com/in/richardgsantos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
