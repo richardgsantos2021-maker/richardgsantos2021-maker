@@ -12,9 +12,13 @@
 
 <p align="left">
 - 🚀 Sou um estudante focado em resolver problemas e criar soluções através do código.
+
 - 🌱 Atualmente, estou aprendendo sobre **Engenharia de Software e aprofundando meus conhecimentos em JavaScript**.
+
 - 👯 Procuro colaborar em **projetos open-source para iniciantes**, onde eu possa aprender e contribuir.
+
 - 💬 Pergunte-me sobre **Python e os conceitos básicos de JavaScript**.
+
 - 📫 Como me encontrar: *richardgsantos2021@gmail.com*
 </p>
 
