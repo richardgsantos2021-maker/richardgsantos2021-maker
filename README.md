@@ -44,6 +44,6 @@
 ### 📫 Onde me Encontrar
 
 <p align="left">
-<a href="https://www.linkedin.com/in/richardgsantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn do Richard" height="30" width="40" /></a>
-<a href="mailto:[seu-email@exemplo.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email do Richard" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/richardgsantos/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn do Richard" height="30" width="40" /></a>
+<a href="mailto:[richardgsantos2021@gmail.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email do Richard" height="30" width="40" /></a>
 </p>
