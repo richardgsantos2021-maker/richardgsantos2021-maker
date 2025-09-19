@@ -11,6 +11,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p align="left">
+  
 - 🚀 Sou um estudante focado em resolver problemas e criar soluções através do código.
 
 - 🌱 Atualmente, estou aprendendo sobre **Engenharia de Software e aprofundando meus conhecimentos em JavaScript**.
