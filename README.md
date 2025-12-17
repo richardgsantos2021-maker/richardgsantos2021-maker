@@ -1,10 +1,9 @@
-# richardgsantos2021-maker
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dma3ltdjUwa3E2ZzBwY2Z1N2Jrdm10c2ZzYmsyd2puaTF3a2RjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="400px" />
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500px" alt="Dev codando" />
 
-<h1 align="center">Olá, eu sou o Richard Santos 👋</h1>
-<h3 align="center">Um estudante de tecnologia apaixonado por Python e JavaScript 🇧🇷</h3>
+  <h1>Olá, eu sou o Richard Santos 👋</h1>
+  <h3>Um estudante de tecnologia apaixonado por Python e JavaScript 🇧🇷</h3>
+</div>
 
 ---
 
