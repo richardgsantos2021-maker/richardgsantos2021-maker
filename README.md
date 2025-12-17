@@ -14,7 +14,7 @@
   
 - 🚀 Sou um estudante focado em resolver problemas e criar soluções através do código.
 
-- 🌱 Atualmente, estou aprendendo sobre **Engenharia de Software e aprofundando meus conhecimentos em JavaScript**.
+- 🌱 Atualmente, estou aprendendo sobre **Automações e aprofundando meus conhecimentos em JavaScript e Python**.
 
 - 👯 Procuro colaborar em **projetos open-source para iniciantes**, onde eu possa aprender e contribuir.
 
